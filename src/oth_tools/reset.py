@@ -32,21 +32,20 @@ def discover() -> Path | None:
     """
     Check the following locations:
 
-        ~/Documents/My Games/over the hill/Saves/Player1.json
         ~/AppData/LocalLow/Funselektor/over the hill/My Games/over the hill/Saves/Player1.json
+        ~/Documents/My Games/over the hill/Saves/Player1.json
 
     :return: the found Player1.json Path
     """
-
-    my_doc = Path("~/Documents/My Games/over the hill/Saves/Player1.json").expanduser()
-    if my_doc.exists():
-        return my_doc
-
     app_data = Path(
         "~/AppData/LocalLow/Funselektor/over the hill/My Games/over the hill/Saves/Player1.json"
     ).expanduser()
     if app_data.exists():
         return app_data
+
+    my_doc = Path("~/Documents/My Games/over the hill/Saves/Player1.json").expanduser()
+    if my_doc.exists():
+        return my_doc
 
     return None
 
