@@ -1,0 +1,28 @@
+[project]
+name = "oth-tools"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Ryan", email = "citizen.townshend@gmail.com" }
+]
+requires-python = ">=3.15"
+dependencies = [
+    "black>=26.10.1",
+    "click>=8.5.1",
+    "loguru>=0.8.0",
+    "rich>=15.0.0",
+]
+
+[project.scripts]
+oth-tools = "oth_tools:main"
+explore = "oth_tools.explore:main"
+oth = "oth_tools.oth:main"
+
+[build-system]
+requires = ["uv_build>=0.13.6,<0.14.0"]
+build-backend = "uv_build"
+
+[tool.black]
+line-length = 120
+target-version = ['py311', ]

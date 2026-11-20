@@ -1,0 +1,4928 @@
+{
+    "Header":
+    {
+        "Version": 3,
+        "LastPlayed": "2026-06-28T19:57:09.9332829-03:00"
+    },
+    "Profile":
+    {
+        "Name": "Player1",
+        "TutorialStepsCompleted":
+        [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "Inventory":
+        {
+            "Items":
+            [
+                {
+                    "Type": "VehicleItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1046421331,
+                        "Count": 1,
+                        "InUse": true,
+                        "MetersTravelled": 91348,
+                        "ToolsetIDs":
+                        [
+                            2317836723,
+                            1440544897,
+                            2436578994,
+                            3771754783
+                        ]
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2894585347,
+                        "Count": 2
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2317836723,
+                        "Count": 3,
+                        "InUse": true
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2833126067,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1619438792,
+                        "Count": 3
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2739151752,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2436578994,
+                        "Count": 3
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3771754783,
+                        "Count": 3
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1440544897,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3639681206,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3061761927,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3435630699,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1112008688,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1691372918,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2763961366,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2342846289,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3700850015,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3129201758,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2803314740,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2292781653,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2471331052,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3683935241,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2184111609,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1611133275,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3059672672,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3033067303,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1997068835,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3475261298,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3011726014,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3531198763,
+                        "Count": 1,
+                        "InUse": true
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2785079511,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2801464093,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3782773271,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2906456756,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2231566118,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1290852116,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1395515260,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2685785274,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2264157187,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2913593056,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1940718070,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2824883463,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2095582912,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1934394798,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2571447340,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 4232459476,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2583392445,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1662228670,
+                        "Count": 1,
+                        "InUse": true
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3536791118,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3244179884,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2314833769,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2908729048,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1557458582,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2954409659,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3723162231,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2005708399,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3230293184,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2354843984,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1438776179,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1680865840,
+                        "Count": 1,
+                        "InUse": true
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3561780446,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1483202830,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2242175661,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2117484372,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2682271193,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1774842218,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2260998702,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2347175516,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2008370876,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2460516010,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1716378335,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1718836730,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2101157999,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2885578813,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2021624273,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3474325967,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2200845751,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3497363950,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2198386952,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3830253939,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3584816870,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1432542299,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2280563890,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3847819741,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3172624252,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2443512768,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2480558827,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2829933510,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1984323755,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2472716106,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3054423176,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2509530124,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2260005901,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1991372013,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2709091061,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2739363202,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3348439796,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2381714421,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2909727666,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2477248735,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2961872425,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2641351917,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2406863427,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3381292179,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2947283903,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2094786110,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3369691194,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3217732323,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2412240884,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3819272937,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1643097761,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1983944321,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3128133653,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2990121487,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3072972691,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3028500080,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1979720445,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2974107206,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3523823524,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2347598393,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1888853090,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2534887916,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1538835823,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3611916875,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2321843384,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1104482154,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 4085037239,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 4054159076,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1464289042,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1903048376,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3131996757,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2127523166,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2312010646,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3430512458,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3047415015,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2139080881,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1357647058,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2910013139,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1959791956,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 4058963269,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1235344816,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950
+                            },
+                            {
+                                "VehicleItemId": 1018520739
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804
+                            },
+                            {
+                                "VehicleItemId": 3404874685
+                            },
+                            {
+                                "VehicleItemId": 1691061460
+                            },
+                            {
+                                "VehicleItemId": 3098383629
+                            },
+                            {
+                                "VehicleItemId": 1808898351
+                            },
+                            {
+                                "VehicleItemId": 1043242486
+                            },
+                            {
+                                "VehicleItemId": 2998940911
+                            },
+                            {
+                                "VehicleItemId": 1932033467
+                            },
+                            {
+                                "VehicleItemId": 1779250133
+                            },
+                            {
+                                "VehicleItemId": 2033237166
+                            },
+                            {
+                                "VehicleItemId": 2098325991
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1457324967,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950
+                            },
+                            {
+                                "VehicleItemId": 1018520739
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 1236419262
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 1461055881
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 3658652804
+                            },
+                            {
+                                "VehicleItemId": 3404874685
+                            },
+                            {
+                                "VehicleItemId": 1691061460
+                            },
+                            {
+                                "VehicleItemId": 3098383629
+                            },
+                            {
+                                "VehicleItemId": 1808898351
+                            },
+                            {
+                                "VehicleItemId": 1043242486
+                            },
+                            {
+                                "VehicleItemId": 2998940911
+                            },
+                            {
+                                "VehicleItemId": 1932033467
+                            },
+                            {
+                                "VehicleItemId": 1779250133
+                            },
+                            {
+                                "VehicleItemId": 2033237166
+                            },
+                            {
+                                "VehicleItemId": 2098325991
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1962146421,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950
+                            },
+                            {
+                                "VehicleItemId": 1018520739
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804
+                            },
+                            {
+                                "VehicleItemId": 3404874685
+                            },
+                            {
+                                "VehicleItemId": 1691061460
+                            },
+                            {
+                                "VehicleItemId": 3098383629
+                            },
+                            {
+                                "VehicleItemId": 1808898351
+                            },
+                            {
+                                "VehicleItemId": 1043242486
+                            },
+                            {
+                                "VehicleItemId": 2998940911
+                            },
+                            {
+                                "VehicleItemId": 1932033467
+                            },
+                            {
+                                "VehicleItemId": 1779250133
+                            },
+                            {
+                                "VehicleItemId": 2033237166
+                            },
+                            {
+                                "VehicleItemId": 2098325991
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2826120212,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950
+                            },
+                            {
+                                "VehicleItemId": 1018520739
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 1236419262
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 1461055881
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 3658652804
+                            },
+                            {
+                                "VehicleItemId": 3404874685
+                            },
+                            {
+                                "VehicleItemId": 1691061460
+                            },
+                            {
+                                "VehicleItemId": 3098383629
+                            },
+                            {
+                                "VehicleItemId": 1808898351
+                            },
+                            {
+                                "VehicleItemId": 1043242486
+                            },
+                            {
+                                "VehicleItemId": 2998940911
+                            },
+                            {
+                                "VehicleItemId": 1932033467
+                            },
+                            {
+                                "VehicleItemId": 1779250133
+                            },
+                            {
+                                "VehicleItemId": 2033237166
+                            },
+                            {
+                                "VehicleItemId": 2098325991
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3344051035,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950
+                            },
+                            {
+                                "VehicleItemId": 1018520739
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804
+                            },
+                            {
+                                "VehicleItemId": 3404874685
+                            },
+                            {
+                                "VehicleItemId": 1691061460
+                            },
+                            {
+                                "VehicleItemId": 3098383629
+                            },
+                            {
+                                "VehicleItemId": 1808898351
+                            },
+                            {
+                                "VehicleItemId": 1043242486
+                            },
+                            {
+                                "VehicleItemId": 2998940911
+                            },
+                            {
+                                "VehicleItemId": 1932033467
+                            },
+                            {
+                                "VehicleItemId": 1779250133
+                            },
+                            {
+                                "VehicleItemId": 2033237166
+                            },
+                            {
+                                "VehicleItemId": 2098325991
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2707028229,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950
+                            },
+                            {
+                                "VehicleItemId": 1018520739
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 1236419262
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 1461055881
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 3658652804
+                            },
+                            {
+                                "VehicleItemId": 3404874685
+                            },
+                            {
+                                "VehicleItemId": 1691061460
+                            },
+                            {
+                                "VehicleItemId": 3098383629
+                            },
+                            {
+                                "VehicleItemId": 1808898351
+                            },
+                            {
+                                "VehicleItemId": 1043242486
+                            },
+                            {
+                                "VehicleItemId": 2998940911
+                            },
+                            {
+                                "VehicleItemId": 1932033467
+                            },
+                            {
+                                "VehicleItemId": 1779250133
+                            },
+                            {
+                                "VehicleItemId": 2033237166
+                            },
+                            {
+                                "VehicleItemId": 2098325991
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2404294194,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950
+                            },
+                            {
+                                "VehicleItemId": 1018520739
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804
+                            },
+                            {
+                                "VehicleItemId": 3404874685
+                            },
+                            {
+                                "VehicleItemId": 1691061460
+                            },
+                            {
+                                "VehicleItemId": 3098383629
+                            },
+                            {
+                                "VehicleItemId": 1808898351
+                            },
+                            {
+                                "VehicleItemId": 1043242486
+                            },
+                            {
+                                "VehicleItemId": 2998940911
+                            },
+                            {
+                                "VehicleItemId": 1932033467
+                            },
+                            {
+                                "VehicleItemId": 1779250133
+                            },
+                            {
+                                "VehicleItemId": 2033237166
+                            },
+                            {
+                                "VehicleItemId": 2098325991
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2299336256,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950
+                            },
+                            {
+                                "VehicleItemId": 1018520739
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 1236419262
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 1461055881
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 3658652804
+                            },
+                            {
+                                "VehicleItemId": 3404874685
+                            },
+                            {
+                                "VehicleItemId": 1691061460
+                            },
+                            {
+                                "VehicleItemId": 3098383629
+                            },
+                            {
+                                "VehicleItemId": 1808898351
+                            },
+                            {
+                                "VehicleItemId": 1043242486
+                            },
+                            {
+                                "VehicleItemId": 2998940911
+                            },
+                            {
+                                "VehicleItemId": 1932033467
+                            },
+                            {
+                                "VehicleItemId": 1779250133
+                            },
+                            {
+                                "VehicleItemId": 2033237166
+                            },
+                            {
+                                "VehicleItemId": 2098325991
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1529577735,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950
+                            },
+                            {
+                                "VehicleItemId": 1018520739
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804
+                            },
+                            {
+                                "VehicleItemId": 3404874685
+                            },
+                            {
+                                "VehicleItemId": 1691061460
+                            },
+                            {
+                                "VehicleItemId": 3098383629
+                            },
+                            {
+                                "VehicleItemId": 1808898351
+                            },
+                            {
+                                "VehicleItemId": 1043242486
+                            },
+                            {
+                                "VehicleItemId": 2998940911
+                            },
+                            {
+                                "VehicleItemId": 1932033467
+                            },
+                            {
+                                "VehicleItemId": 1779250133
+                            },
+                            {
+                                "VehicleItemId": 2033237166
+                            },
+                            {
+                                "VehicleItemId": 2098325991
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1873049924,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950
+                            },
+                            {
+                                "VehicleItemId": 1018520739
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804
+                            },
+                            {
+                                "VehicleItemId": 3404874685
+                            },
+                            {
+                                "VehicleItemId": 1691061460
+                            },
+                            {
+                                "VehicleItemId": 3098383629
+                            },
+                            {
+                                "VehicleItemId": 1808898351
+                            },
+                            {
+                                "VehicleItemId": 1043242486
+                            },
+                            {
+                                "VehicleItemId": 2998940911
+                            },
+                            {
+                                "VehicleItemId": 1932033467
+                            },
+                            {
+                                "VehicleItemId": 1779250133
+                            },
+                            {
+                                "VehicleItemId": 2033237166
+                            },
+                            {
+                                "VehicleItemId": 2098325991
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3002350259,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950
+                            },
+                            {
+                                "VehicleItemId": 1018520739
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 1236419262
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 1461055881
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 3658652804
+                            },
+                            {
+                                "VehicleItemId": 3404874685
+                            },
+                            {
+                                "VehicleItemId": 1691061460
+                            },
+                            {
+                                "VehicleItemId": 3098383629
+                            },
+                            {
+                                "VehicleItemId": 1808898351
+                            },
+                            {
+                                "VehicleItemId": 1043242486
+                            },
+                            {
+                                "VehicleItemId": 2998940911
+                            },
+                            {
+                                "VehicleItemId": 1932033467
+                            },
+                            {
+                                "VehicleItemId": 1779250133
+                            },
+                            {
+                                "VehicleItemId": 2033237166
+                            },
+                            {
+                                "VehicleItemId": 2098325991
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2184154733,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950
+                            },
+                            {
+                                "VehicleItemId": 1018520739
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804
+                            },
+                            {
+                                "VehicleItemId": 3404874685
+                            },
+                            {
+                                "VehicleItemId": 1691061460
+                            },
+                            {
+                                "VehicleItemId": 3098383629
+                            },
+                            {
+                                "VehicleItemId": 1808898351
+                            },
+                            {
+                                "VehicleItemId": 1043242486
+                            },
+                            {
+                                "VehicleItemId": 2998940911
+                            },
+                            {
+                                "VehicleItemId": 1932033467
+                            },
+                            {
+                                "VehicleItemId": 1779250133
+                            },
+                            {
+                                "VehicleItemId": 2033237166
+                            },
+                            {
+                                "VehicleItemId": 2098325991
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3390219457,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950
+                            },
+                            {
+                                "VehicleItemId": 1018520739
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 1236419262
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 1461055881
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 3658652804
+                            },
+                            {
+                                "VehicleItemId": 3404874685
+                            },
+                            {
+                                "VehicleItemId": 1691061460
+                            },
+                            {
+                                "VehicleItemId": 3098383629
+                            },
+                            {
+                                "VehicleItemId": 1808898351
+                            },
+                            {
+                                "VehicleItemId": 1043242486
+                            },
+                            {
+                                "VehicleItemId": 2998940911
+                            },
+                            {
+                                "VehicleItemId": 1932033467
+                            },
+                            {
+                                "VehicleItemId": 1779250133
+                            },
+                            {
+                                "VehicleItemId": 2033237166
+                            },
+                            {
+                                "VehicleItemId": 2098325991
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2221235084,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950
+                            },
+                            {
+                                "VehicleItemId": 1018520739
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804
+                            },
+                            {
+                                "VehicleItemId": 3404874685
+                            },
+                            {
+                                "VehicleItemId": 1691061460
+                            },
+                            {
+                                "VehicleItemId": 3098383629
+                            },
+                            {
+                                "VehicleItemId": 1808898351
+                            },
+                            {
+                                "VehicleItemId": 1043242486
+                            },
+                            {
+                                "VehicleItemId": 2998940911
+                            },
+                            {
+                                "VehicleItemId": 1932033467
+                            },
+                            {
+                                "VehicleItemId": 1779250133
+                            },
+                            {
+                                "VehicleItemId": 2033237166
+                            },
+                            {
+                                "VehicleItemId": 2098325991
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2387411355,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950
+                            },
+                            {
+                                "VehicleItemId": 1018520739
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804
+                            },
+                            {
+                                "VehicleItemId": 3404874685
+                            },
+                            {
+                                "VehicleItemId": 1691061460
+                            },
+                            {
+                                "VehicleItemId": 3098383629
+                            },
+                            {
+                                "VehicleItemId": 1808898351
+                            },
+                            {
+                                "VehicleItemId": 1043242486
+                            },
+                            {
+                                "VehicleItemId": 2998940911
+                            },
+                            {
+                                "VehicleItemId": 1932033467
+                            },
+                            {
+                                "VehicleItemId": 1779250133
+                            },
+                            {
+                                "VehicleItemId": 2033237166
+                            },
+                            {
+                                "VehicleItemId": 2098325991
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1758494685,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950
+                            },
+                            {
+                                "VehicleItemId": 1018520739
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 1236419262
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 1461055881
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 3658652804
+                            },
+                            {
+                                "VehicleItemId": 3404874685
+                            },
+                            {
+                                "VehicleItemId": 1691061460
+                            },
+                            {
+                                "VehicleItemId": 3098383629
+                            },
+                            {
+                                "VehicleItemId": 1808898351
+                            },
+                            {
+                                "VehicleItemId": 1043242486
+                            },
+                            {
+                                "VehicleItemId": 2998940911
+                            },
+                            {
+                                "VehicleItemId": 1932033467
+                            },
+                            {
+                                "VehicleItemId": 1779250133
+                            },
+                            {
+                                "VehicleItemId": 2033237166
+                            },
+                            {
+                                "VehicleItemId": 2098325991
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3370309071,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1608550983,
+                        "Count": 1045
+                    }
+                },
+                {
+                    "Type": "VehicleItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2035762699,
+                        "Count": 1,
+                        "MetersTravelled": 11409,
+                        "ToolsetIDs":
+                        [
+                            2317836723,
+                            1440544897,
+                            2436578994,
+                            3771754783
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1260490138,
+                        "Count": 1,
+                        "MetersTravelled": 26857,
+                        "ToolsetIDs":
+                        [
+                            2317836723,
+                            1440544897,
+                            2436578994,
+                            3771754783
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1799703386,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2154222459,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3837972046,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2227690346,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2751510839,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3207310395,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3830743480,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2258050032,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2626633432,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3024677586,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3823205236,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2885773951,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1336553944,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3524770717,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1845047666,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1802891673,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2247201091,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2567631570,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2139069014,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3120886791,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "InventoryItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2918626659,
+                        "Count": 1
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1246763350,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1762552491,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2404384675,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3660352652,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3179273176,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3083956934,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Type": "VehicleSpecificItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1932940717,
+                        "VehicleStates":
+                        [
+                            {
+                                "VehicleItemId": 2266109950,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1018520739,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2035762699,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1236419262,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1046421331,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 1461055881,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1260490138,
+                                "Count": 1,
+                                "InUse": true
+                            },
+                            {
+                                "VehicleItemId": 3658652804,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3404874685,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1691061460,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 3098383629,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1808898351,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1043242486,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2998940911,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1932033467,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 1779250133,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2033237166,
+                                "Count": 1
+                            },
+                            {
+                                "VehicleItemId": 2098325991,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                }
+            ],
+            "VirtualItems":
+            [
+                {
+                    "Type": "AreaItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1404582921,
+                        "IsUnlocked": true,
+                        "CompletionRate": 1.0,
+                        "Hours": 2,
+                        "Minutes": 28,
+                        "Weather": 18
+                    }
+                },
+                {
+                    "Type": "ObjectiveData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2216048868,
+                        "State": 2,
+                        "Completed": true,
+                        "InteractionCount": 7
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1101794939,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1011907904,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1815311426,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1877429540,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1452709774,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "ObjectiveData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2215793191,
+                        "State": 2,
+                        "Completed": true,
+                        "InteractionCount": 1
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1703553236,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1126868999,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1435340210,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2559756370,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1573728421,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2551448454,
+                        "State": 2,
+                        "Completed": true,
+                        "InteractionCount": 49
+                    }
+                },
+                {
+                    "Type": "AnimalItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2225123386,
+                        "SaveLocation": "CommonRaven_20260620_124738_145.png",
+                        "AlreadySeen": false
+                    }
+                },
+                {
+                    "Type": "AnimalItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1951397390,
+                        "SaveLocation": "MuleDeerMale_20260624_231005_578.png",
+                        "AlreadySeen": false
+                    }
+                },
+                {
+                    "Type": "AnimalItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2330246028,
+                        "SaveLocation": "BaldEagle_20260627_002723_550.png",
+                        "AlreadySeen": false
+                    }
+                },
+                {
+                    "Type": "AnimalItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2542451225,
+                        "SaveLocation": "BlackBear_20260628_131926_008.png",
+                        "AlreadySeen": false
+                    }
+                },
+                {
+                    "Type": "ObjectiveData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1239687479,
+                        "State": 2,
+                        "Completed": true,
+                        "InteractionCount": 1
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1226452874,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1156766673,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "ObjectiveData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1072791888,
+                        "State": 2,
+                        "Completed": true,
+                        "InteractionCount": 3
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1491809132,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1777568085,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1439786416,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1111806668,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2349692358,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1830311451,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2145727405,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1543754958,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1267671253,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1408519785,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "AnimalItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2180040503,
+                        "SaveLocation": "Moose_20260628_141422_968.png",
+                        "AlreadySeen": false
+                    }
+                },
+                {
+                    "Type": "AnimalItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2419144249,
+                        "SaveLocation": "Beaver_20260620_204525_237.png",
+                        "AlreadySeen": false
+                    }
+                },
+                {
+                    "Type": "AnimalItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2561404324,
+                        "SaveLocation": "KokaneeSalmon_20260623_203046_778.png",
+                        "AlreadySeen": false
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2740217759,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1301202979,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 2078879044,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1846446038,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "PointOfInterestData, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 1302162358,
+                        "State": 2,
+                        "Completed": true
+                    }
+                },
+                {
+                    "Type": "AnimalItem, Assembly-CSharp",
+                    "Data":
+                    {
+                        "ItemId": 3000190931,
+                        "SaveLocation": "GrayWolf_20260627_194939_526.png",
+                        "AlreadySeen": false
+                    }
+                }
+            ]
+        },
+        "LastArea": 1404582921
+    }
+}
